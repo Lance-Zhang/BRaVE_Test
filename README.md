@@ -1,2 +1,2 @@
 # Python_Test
-Summer BRaVE Intro to Python Course Repository
+Summer Intro to Python Course Repository
